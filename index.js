@@ -5,6 +5,8 @@ module.exports = {
 	environments: {
 		grind: {
 			globals: {
+				Log: false,
+
 				HttpError: false,
 
 				BadRequestError: false,
