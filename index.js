@@ -1,5 +1,3 @@
-var path = require('path');
-
 module.exports = {
 
 	environments: {
@@ -56,4 +54,4 @@ module.exports = {
 		}
 	}
 
-};
+}
