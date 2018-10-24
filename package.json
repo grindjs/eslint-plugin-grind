@@ -16,6 +16,6 @@
     "eslintplugin"
   ],
   "peerDependencies": {
-    "eslint": ">=2.0 <=4.0"
+    "eslint": ">=2.0"
   }
 }
