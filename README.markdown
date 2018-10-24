@@ -1,2 +1,3 @@
-# eslint-plugin-import-auto-name
-eslint plugin for https://github.com/shnhrrsn/babel-plugin-import-auto-name
+# eslint-plugin-grind
+
+`eslint-plugin-grind` is an environment plugin for eslint that provides Grind’s built in globals.
