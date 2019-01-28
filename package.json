@@ -17,5 +17,12 @@
   ],
   "peerDependencies": {
     "eslint": ">=2.0"
+  },
+  "devDependencies": {
+    "ava": "^1.2.0",
+    "eslint-ava-rule-tester": "^3.0.0"
+  },
+  "scripts": {
+    "test": "ava -v"
   }
 }
